@@ -1,0 +1,7 @@
+DISCLAIMER: This file has been given the extension ".txt" for those
+who have not yet ascended to the linux level.
+
+DISCLAIMER: This folder is for those who have not ascended to the EMACS or
+VIM Level
+
+Put all eclipse related project files in here.
