@@ -1,8 +1,33 @@
 DISCLAIMER: This file has been given the extension ".txt" for those
 who have not yet ascended to the linux level.
 
+Specifications and Requirements for the Text BASED RPG
 
-DESCRIPTION: TODO: Describe the project. This is you Dave.
+Developed by:
+ExtremeLinting(MMYERS and DCOUTURE)
+
+CONTENTS
+1.0 GENERAL INFROMATION
+  1.1 PURPOSE
+  1.2 ACRONYMS (Dave hates these)
+  1.3 DEFINTIONS
+2.0 REQUIREMENTS
+
+1.0 GENERAL INFROMATION: 
+  1.1 PURPOSE
+    The purpose of this document is to describe and document the requirements of the Text Based RPG engine. 
+  1.2 ACRONYMS
+    RPG: Role Playing Game
+  1.3
+    RPG: A game where you take on the role of a character who does more intresting things then you do in your ordinary life.
+    
+2.0 REQUIREMENTS
+  2.1 Easy to use interface.
+  2.2 Well documented
+  2.3 Able to randomly genearte maps.
+  2.4 Other cool stuff.
+  2.5 Programmed in C++.
+  
 
 
 REQUIREMENTS: TODO: ???
