@@ -4,7 +4,7 @@ who have not yet ascended to the linux level.
 Specifications and Requirements for the Text BASED RPG
 
 Developed by:
-ExtremeLinting(MMYERS and DCOUTURE)
+ExtremeLinting(MMYERS and DCOUTURE)(Done with GIT)
 
 CONTENTS
 1.0 GENERAL INFROMATION
